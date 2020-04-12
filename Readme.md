@@ -25,7 +25,7 @@ b) [Google Sheet](https://docs.google.com/spreadsheets/d/1bisKMNywxr-SMfI6ju_TQ8
 **Cevap:** 21.68x + 0.25
 
 c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0* iken *y* nedir? Sizce neden orjinden geçmiyor?
-**Cevap:**
+**Cevap:** Grafikte x=0 iken y=0.25. Bunun nedeninin 
 
 
 
